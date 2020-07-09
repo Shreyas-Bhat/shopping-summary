@@ -11,3 +11,15 @@
 .purchase-card > .show-grid{
   padding-bottom : 1.5em;
 }
+.item-details-button:focus{
+ box-shadow: none;
+}
+
+.price-strike{
+  text-decoration-line: line-through;
+  color: gray;
+}
+.promo-code-button:focus{
+  box-shadow: none;
+}
+
